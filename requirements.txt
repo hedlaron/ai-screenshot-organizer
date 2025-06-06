@@ -1,0 +1,2 @@
+pydantic>=2.11.5
+pydantic-ai>=0.2.15 
