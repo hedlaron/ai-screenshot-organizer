@@ -16,6 +16,12 @@ A Python-based tool for organizing screenshots into categories using AI assistan
 ```bash
 pip install -r requirements.txt
 ```
+3. Set up your OpenAI API key:
+```bash
+export OPENAI_API_KEY='your-api-key-here'
+```
+   - You can get your API key from the [OpenAI dashboard](https://platform.openai.com/api-keys)
+   - For persistent access, add the export command to your shell's config file (e.g., `~/.zshrc` or `~/.bashrc`)
 
 ## Project Structure
 
